@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\githubdemo\\DouYu-master\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "outputFile": "F:\\mygithub\\MyDouYuDemo\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "E:\\githubdemo\\DouYu-master\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "source": "F:\\mygithub\\MyDouYuDemo\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,10,11,12,13,14,15,16,18,19,20,21,31",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

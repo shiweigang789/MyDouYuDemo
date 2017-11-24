@@ -27,3 +27,4 @@
 -keep public class io.vov.vitamio.VitamioLicense { *; }
 -keep public class io.vov.vitamio.Vitamio { *; }
 -keep public class io.vov.vitamio.MediaMetadataRetriever { *; }
+
